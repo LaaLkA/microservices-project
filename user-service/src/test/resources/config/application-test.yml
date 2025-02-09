@@ -3,3 +3,5 @@ spring:
     config:
       enabled: false
       fail-fast: false
+  application:
+    name: user-service
